@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "Solden Stoll"
   pronouns         : # example: "she/her"  
   bio              : "Undegraduate studying computer science and mathematics at the University of Washington."
