@@ -1,10 +1,10 @@
 ---
-permalink: /
+permalink:  https://soldenstoll.github.io/
 title: "About Me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - https://soldenstoll.github.io/about/
+  -  https://soldenstoll.github.io/about.html
 ---
 
 I am an undergraduate in the Paul G. Allen school at the University of Washington studying computer science and mathematics. My current interests are in machine learning for geolocation and algebraic topology. My complete CV can be found [here.](http://soldenstoll.github.io/cv/)
