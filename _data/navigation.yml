@@ -6,16 +6,16 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://soldenstoll.github.io/publications/
 
   - title: "Courses"
-    url: /courses/    
+    url: https://soldenstoll.github.io/courses/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: https://soldenstoll.github.io/teaching/    
 
   - title: "CV"
-    url: /cv/  
+    url: https://soldenstoll.github.io/cv/  
     
   # - title: "Portfolio"
   #   url: /portfolio/
